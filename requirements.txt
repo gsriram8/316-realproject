@@ -1,0 +1,16 @@
+Flask
+Flask-RESTful
+Flask-JWT
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-cors
+pandas
+numpy
+scipy
+sklearn
+scikit-learn
+Flask-Mail
+Flask-Script
+psycopg2-binary
+apscheduler
+uwsgi
